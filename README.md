@@ -22,23 +22,6 @@ AutoCAD internship project - Skillentrix technologies
 
 **Commands Used:** `CYLINDER`, `BOX`, `SUBTRACT`, `UNION`, `FILLEDGE`, `3DORBIT`
 
----
-
-### Minor Project — Base Plate
-> **Complexity: Beginner-Intermediate | Type: Flanged mounting plate with boss**
-
-| Feature | Dimension |
-|---|---|
-| Plate Size | 4.500 × 4.500 in |
-| Plate Thickness | 0.750 in |
-| Center Boss OD | Ø 2.250 in |
-| Center Bore ID | Ø 1.3125 in |
-| Total Height | 3.000 in |
-| Corner Holes | 4 × Ø 0.750 in |
-
-**Commands Used:** `BOX`, `CYLINDER`, `SUBTRACT`, `UNION`, `FILLEDGE`
-
----
 
 ## How to Open the Models
 1. Open **AutoCAD** (2018 or later / Student Edition)
